@@ -1,5 +1,5 @@
 int green = 11;
-int red  = 6;
+int red  = 7;
 int yellow =4;
 void setup() {
   // put your setup code here, to run once:
